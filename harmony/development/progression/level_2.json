@@ -1,95 +1,24 @@
 {
   "levelVersion": 1,
   "elements": [
-    {
-      "positionCapability": {
-        "position": { "x": 0, "y": 0 },
-        "enabled": true
-      },
-      "tileCapability": {
-        "type": 0,
-        "enabled": true
-      }
-    },
-    {
-      "positionCapability": {
-        "position": { "x": 0, "y": 1 },
-        "enabled": true
-      },
-      "tileCapability": {
-        "type": 1,
-        "enabled": true
-      }
-    },
-    {
-      "positionCapability": {
-        "position": { "x": 0, "y": 2 },
-        "enabled": true
-      },
-      "tileCapability": {
-        "type": 1,
-        "enabled": true
-      }
-    },
-    {
-      "positionCapability": {
-        "position": { "x": 1, "y": 0 },
-        "enabled": true
-      },
-      "tileCapability": {
-        "type": 0,
-        "enabled": true
-      }
-    },
-    {
-      "positionCapability": {
-        "position": { "x": 1, "y": 1 },
-        "enabled": true
-      },
-      "tileCapability": {
-        "type": 2,
-        "enabled": true
-      }
-    },
-    {
-      "positionCapability": {
-        "position": { "x": 1, "y": 2 },
-        "enabled": true
-      },
-      "tileCapability": {
-        "type": 0,
-        "enabled": true
-      }
-    },
-    {
-      "positionCapability": {
-        "position": { "x": 2, "y": 0 },
-        "enabled": true
-      },
-      "tileCapability": {
-        "type": 2,
-        "enabled": true
-      }
-    },
-    {
-      "positionCapability": {
-        "position": { "x": 2, "y": 1 },
-        "enabled": true
-      },
-      "tileCapability": {
-        "type": 0,
-        "enabled": true
-      }
-    },
-    {
-      "positionCapability": {
-        "position": { "x": 2, "y": 2 },
-        "enabled": true
-      },
-      "tileCapability": {
-        "type": 1,
-        "enabled": true
-      }
-    }
+    { "positionCapability": { "position": { "x": 0, "y": 0 }, "enabled": true }, "tileCapability": { "type": "Fire", "enabled": true } },
+    { "positionCapability": { "position": { "x": 0, "y": 1 }, "enabled": true }, "tileCapability": { "type": "Leaf", "enabled": true } },
+    { "positionCapability": { "position": { "x": 0, "y": 2 }, "enabled": true }, "tileCapability": { "type": "Water", "enabled": true } },
+    { "positionCapability": { "position": { "x": 0, "y": 3 }, "enabled": true }, "tileCapability": { "type": "Leaf", "enabled": true } },
+
+    { "positionCapability": { "position": { "x": 1, "y": 0 }, "enabled": true }, "tileCapability": { "type": "Water", "enabled": true } },
+    { "positionCapability": { "position": { "x": 1, "y": 1 }, "enabled": true }, "tileCapability": { "type": "Fire", "enabled": true } },
+    { "positionCapability": { "position": { "x": 1, "y": 2 }, "enabled": true }, "tileCapability": { "type": "Leaf", "enabled": true } },
+    { "positionCapability": { "position": { "x": 1, "y": 3 }, "enabled": true }, "tileCapability": { "type": "Fire", "enabled": true } },
+
+    { "positionCapability": { "position": { "x": 2, "y": 0 }, "enabled": true }, "tileCapability": { "type": "Leaf", "enabled": true } },
+    { "positionCapability": { "position": { "x": 2, "y": 1 }, "enabled": true }, "tileCapability": { "type": "Water", "enabled": true } },
+    { "positionCapability": { "position": { "x": 2, "y": 2 }, "enabled": true }, "tileCapability": { "type": "Leaf", "enabled": true } },
+    { "positionCapability": { "position": { "x": 2, "y": 3 }, "enabled": true }, "tileCapability": { "type": "Water", "enabled": true } },
+
+    { "positionCapability": { "position": { "x": 3, "y": 0 }, "enabled": true }, "tileCapability": { "type": "Fire", "enabled": true } },
+    { "positionCapability": { "position": { "x": 3, "y": 1 }, "enabled": true }, "tileCapability": { "type": "Water", "enabled": true } },
+    { "positionCapability": { "position": { "x": 3, "y": 2 }, "enabled": true }, "tileCapability": { "type": "Leaf", "enabled": true } },
+    { "positionCapability": { "position": { "x": 3, "y": 3 }, "enabled": true }, "tileCapability": { "type": "Fire", "enabled": true } }
   ]
 }
