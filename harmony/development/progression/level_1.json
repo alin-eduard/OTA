@@ -1,6 +1,6 @@
 {
   "levelVersion": 1,
-  "availableElements": 3,
+    "availableElements": ["Fire", "Water", "Leaf"],
   "elements": [
     {
       "positionCapability": {
