@@ -14,7 +14,20 @@
         "enabled": true
       },
       "tileCapability": {
-        "type": "Fire",
+        "type": "Water",
+        "enabled": true
+      }
+    },
+    {
+      "positionCapability": {
+        "position": {
+          "x": 1,
+          "y": 1
+        },
+        "enabled": true
+      },
+      "tileCapability": {
+        "type": "Water",
         "enabled": true
       }
     },

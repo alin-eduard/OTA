@@ -1,0 +1,101 @@
+{
+  "levelVersion": 1,
+  "availableElements": [
+    "Fire",
+    "Water",
+    "Leaf"
+  ],
+  "elements": [
+    {
+      "positionCapability": {
+        "position": {
+          "x": 0,
+          "y": 2
+        },
+        "enabled": true
+      },
+      "tileCapability": {
+        "type": "Fire",
+        "enabled": true
+      }
+    },
+    {
+      "positionCapability": {
+        "position": {
+          "x": 1,
+          "y": 2
+        },
+        "enabled": true
+      },
+      "tileCapability": {
+        "type": "Leaf",
+        "enabled": true
+      }
+    },
+    {
+      "positionCapability": {
+        "position": {
+          "x": 2,
+          "y": 2
+        },
+        "enabled": true
+      },
+      "tileCapability": {
+        "type": "Fire",
+        "enabled": true
+      }
+    },
+    {
+      "positionCapability": {
+        "position": {
+          "x": 2,
+          "y": 1
+        },
+        "enabled": true
+      },
+      "tileCapability": {
+        "type": "Leaf",
+        "enabled": true
+      }
+    },
+    {
+      "positionCapability": {
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "enabled": true
+      },
+      "tileCapability": {
+        "type": "Fire",
+        "enabled": true
+      }
+    },
+    {
+      "positionCapability": {
+        "position": {
+          "x": 1,
+          "y": 0
+        },
+        "enabled": true
+      },
+      "tileCapability": {
+        "type": "Water",
+        "enabled": true
+      }
+    },
+    {
+      "positionCapability": {
+        "position": {
+          "x": 2,
+          "y": 0
+        },
+        "enabled": true
+      },
+      "tileCapability": {
+        "type": "Fire",
+        "enabled": true
+      }
+    }
+  ]
+}
