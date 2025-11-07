@@ -1,0 +1,17 @@
+{
+  "levels": {
+    "0": "level_2_2_1.json",
+    "1": "level_2_2_2.json",
+    "2": "level_2_2_3.json",
+    "3": "level_2_2_4.json",
+    "4": "level_2_3_1.json",
+    "5": "level_2_3_2.json",
+    "6": "level_2_3_3.json",
+    "7": "level_2_3_4.json",
+    "8": "level_2_4_1.json",
+    "9": "level_2_4_2.json",
+    "10": "level_2_4_3.json",
+    "11": "level_2_4_4.json",
+    "12": "level_2_4_5.json"
+  }
+}

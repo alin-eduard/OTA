@@ -1,0 +1,61 @@
+{
+  "levelVersion": 1,
+  "availableElements": [
+    "Fire",
+    "Water"
+  ],
+  "elements": [
+    {
+      "positionCapability": {
+        "position": {
+          "x": 0,
+          "y": 1
+        },
+        "enabled": true
+      },
+      "tileCapability": {
+        "type": "Water",
+        "enabled": true
+      }
+    },
+    {
+      "positionCapability": {
+        "position": {
+          "x": 1,
+          "y": 1
+        },
+        "enabled": true
+      },
+      "tileCapability": {
+        "type": "Fire",
+        "enabled": true
+      }
+    },
+    {
+      "positionCapability": {
+        "position": {
+          "x": 1,
+          "y": 0
+        },
+        "enabled": true
+      },
+      "tileCapability": {
+        "type": "Fire",
+        "enabled": true
+      }
+    },
+    {
+      "positionCapability": {
+        "position": {
+          "x": 2,
+          "y": 0
+        },
+        "enabled": true
+      },
+      "tileCapability": {
+        "type": "Fire",
+        "enabled": true
+      }
+    }
+  ]
+}
