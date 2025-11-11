@@ -1,4 +1,6 @@
 {
   "loading_screen_key": "Chargement…",
-  "play_screen_level_key": "Niveau"
+  "play_screen_level_key": "Niveau",
+  "retry_button_key": "Réessayer",
+  "something_went_wrong_key": "Une erreur s’est produite"
 }

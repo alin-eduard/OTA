@@ -1,4 +1,6 @@
 {
   "loading_screen_key": "Loading...",
-  "play_screen_level_key": "Level"
+  "play_screen_level_key": "Level",
+  "retry_button_key": "Retry",
+  "something_went_wrong_key": "Something went wrong"
 }
